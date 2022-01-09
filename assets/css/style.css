@@ -23,3 +23,25 @@ h1, h2{
     float: left;
     font-size: 250%;
 }
+#menu{
+    font-size: 120%;
+    letter-spacing: 3px;
+}
+#menu, #logo{
+    line-height: 70px;
+}
+#menu li{
+    float: right;
+    list-style-type: none;
+    margin: 35px;
+}
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+#menu a:hover{
+    border-bottom: 1px solid grey;
+}
+.active{
+    border-bottom: 1px solid grey;
+}
