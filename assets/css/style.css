@@ -8,4 +8,18 @@
 body{
     font-family: lato, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* Headings and logo */
+
+h1, h2{
+    font-family: oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: black;
+}
+#logo{
+    float: left;
+    font-size: 250%;
 }
