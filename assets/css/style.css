@@ -22,6 +22,7 @@ h1, h2{
 #logo{
     float: left;
     font-size: 250%;
+    margin-left: 25px;
 }
 #menu{
     font-size: 120%;
@@ -61,7 +62,8 @@ h1, h2{
 #hero-image{
     height: 600px;
     width: 100%;
-    background: url("../images/hero-image.jpeg") center center;
+    background: url("../images/hero-image.jpeg") no-repeat center center;
+    background-size: cover;
 
     /* animation zoom affect on loading page */
     animation-name: hero-zoom;
@@ -91,4 +93,30 @@ background-color: grey;
 bottom: 200px;
 right: 10%;
 position: absolute;
+}
+
+/* about us */
+
+#about{
+    height: 600px;
+    margin-top: 30px;
+}
+#left1{
+    padding-top: 10px;
+    width: 100%;
+    float: left;
+    background-color: aqua;
+
+}
+#left2{
+    padding-top: 10px;
+    width: 100%;
+    float: left;
+    background-color: aquamarine;
+}
+.left1{
+    margin-left: 20px;
+}
+.left2{
+    margin-left: 20px;
 }
