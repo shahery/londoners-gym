@@ -147,6 +147,28 @@ position: absolute;
 #inside{
    float: left;
    margin-top: 180px;
-   background-color: aliceblue;
-
+   margin-left: 20px;
+   width: 90%;
+}
+.heading4{
+   font: bold;
+   font-size: 200%;
+}
+.p1{
+  font-size: 110%;
+}
+.heading5{
+font-size: 120%;
+}
+.p2{
+  font: 110%;
+}
+.heading6{
+    font-size: 120%;
+}
+.p3{
+font-size: 110%;
+}
+.heading7{
+    font-size: 120%;
 }
