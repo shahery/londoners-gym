@@ -106,7 +106,6 @@ position: absolute;
     width: 100%;
     float: left;
     background-color: aqua;
-
 }
 #left2{
     padding-top: 10px;
@@ -114,9 +113,34 @@ position: absolute;
     float: left;
     background-color: aquamarine;
 }
-.left1{
+.l1{
     margin-left: 20px;
+    background-color: red;
 }
-.left2{
+.l2{
     margin-left: 20px;
+    background-color: gold;
+}
+.heading3{
+    text-align: center;
+    margin-top: 30px;
+    background-color: purple;
+}
+.list-left{
+    margin-left: 30px;
+    width: 40%;
+    float: left;
+    margin-top: 20px;
+    font-size: 130%;
+    padding-left: 30px;
+    background-color: pink;
+}
+.list-right{
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+    width: 40%;
+    font-size: 130%;
+    background-color: powderblue;
+    padding-left: 30px;
 }
