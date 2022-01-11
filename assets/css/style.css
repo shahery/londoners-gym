@@ -34,7 +34,7 @@ h1, h2{
 #menu li{
     float: right;
     list-style-type: none;
-    margin: 35px;
+    margin: 35px 25px;
     margin-top: 0;
 }
 #menu a{
@@ -98,49 +98,55 @@ position: absolute;
 /* about us */
 
 #about{
-    height: 600px;
+    height: 1200px;
     margin-top: 30px;
 }
 #left1{
     padding-top: 10px;
-    width: 100%;
-    float: left;
-    background-color: aqua;
+    width: 90%;
+    height: 50px;
+    margin-left: 20px;
+    font-size: 110%;
 }
 #left2{
     padding-top: 10px;
-    width: 100%;
-    float: left;
-    background-color: aquamarine;
+    width: 90%;
+    height: 50px;
+    margin-left: 20px;
+    font-size: 110%;
 }
 .l1{
     margin-left: 20px;
-    background-color: red;
 }
 .l2{
     margin-left: 20px;
-    background-color: gold;
+    margin-left: 20px;
 }
 .heading3{
+    margin-top: 20px;
+    width: 100%;
     text-align: center;
-    margin-top: 30px;
-    background-color: purple;
 }
 .list-left{
     margin-left: 30px;
     width: 40%;
+    height: 100px;
     float: left;
     margin-top: 20px;
     font-size: 130%;
-    padding-left: 30px;
-    background-color: pink;
+    padding: 20px 0 0 30px;
 }
 .list-right{
     float: right;
-    margin-right: 30px;
-    margin-top: 20px;
+    margin: 20px 20px 0 30px;
     width: 40%;
+    height: 100px;
     font-size: 130%;
-    background-color: powderblue;
-    padding-left: 30px;
+    padding: 20px 0 0 30px;
+}
+#inside{
+   float: left;
+   margin-top: 180px;
+   background-color: aliceblue;
+
 }
