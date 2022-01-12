@@ -197,3 +197,15 @@ position: absolute;
 td{
     font-size: 100%;
 }
+
+/* sign up form */
+
+.form-sec{
+    height: 400px;
+    width: 100%;
+    background-color: aquamarine;
+    padding: 50px 0 0 10%;
+    color: black;
+    background: url(../images/pexels-photo-4162591.jpeg) no-repeat center center;
+    background-size: cover;
+}
