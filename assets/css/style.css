@@ -144,6 +144,32 @@ position: absolute;
     font-size: 130%;
     padding: 20px 0 0 30px;
 }
+#features{
+    width: 100%;
+    height: 400px;
+    margin-top: 200px;
+    float: left;
+}
+.hf{
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.fl{
+    float: left;
+    padding-left: 5%;
+    padding-top: 30px;
+    font-size: 130%;
+    font-weight: bold;
+
+}
+.fr{
+    float: right;
+    padding-right: 30%;
+    padding-top: 30px;
+    font-size: 130%;
+    font-weight: bold;
+}
 
 /* times and contact */
 
@@ -153,7 +179,8 @@ position: absolute;
 }
 
 #times{
-    margin: 30px 0 0 100px;
+    margin: 50px 0 0 100px;
+    
 }
 #times > table{
     font-size: 110%;
@@ -208,4 +235,22 @@ td{
     color: black;
     background: url(../images/pexels-photo-4162591.jpeg) no-repeat center center;
     background-size: cover;
+    margin-top: 380px;
+}
+
+/* qoute image */
+
+#qoute-outer{
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+#qoute-image{
+    height: 500px;
+    width: 100%;
+    background: url(../images/Gym-Quotes-Short.jpeg) no-repeat center center;
+    background-size: cover;
+
 }
