@@ -8,7 +8,7 @@
 body{
     font-family: lato, sans-serif;
     font-weight: 300;
-    color: #0000000;
+    color: #000000;
     background-color: #EBEBEB;
 }
 
@@ -66,7 +66,7 @@ h1, h2{
     background: url("../images/hero-image.jpeg") no-repeat center center;
     background-size: cover;
 
-    /* animation zoom affect on loading page */
+/* animation zoom affect on loading page */
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -278,7 +278,7 @@ footer{
 
 /* gallery */
 
-#photos{
+ #photos{
     clear: both;
     column-count: 2;
     column-gap: 0;
@@ -289,3 +289,11 @@ footer{
         width: 100%;
     }
     
+/* Media Queries */
+
+/* for larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px){
+    height: 1200px;
+    width: 65%;
+    margin: 0 auto; 
+}
