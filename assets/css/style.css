@@ -194,7 +194,7 @@ position: absolute;
     float: left;
     width: 33%;
     text-align: center;
-    height: 350px;
+    height: 250px;
     padding-top: 15%;
     border: 2px solid white;
 }
@@ -205,15 +205,15 @@ position: absolute;
 /* sign up form */
 
 #sign-up{
-    height: 400px;
+    height: 600px;
     width: 100%;
     background-color: aquamarine;
-    padding-top: 50px;
-    padding-left: 100px;
+    padding-top: 200px;
+    padding-left: 80px;
     color: black;
     background: url(../images/pexels-photo-4162591.jpeg) no-repeat center center;
     background-size: cover;
-    font-size: 130%;
+    font-size: 140%;
 }
 .join{
     display: inline-block;
@@ -222,24 +222,8 @@ position: absolute;
     margin: 0 0 0 120px ;
 }
 
-/* qoute image */
-
-#qoute-outer{
-    height: 300px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-
-}
-#qoute-image{
-    height: 300px;
-    width: 100%;
-    background: url(../images/qoute.jpeg) no-repeat center center;
-    background-size: cover;
-
-}
-
 /* footer */
+
 footer{
     height: 100px;
     width: 100%;
@@ -256,20 +240,11 @@ footer{
     padding: 4%;
     color: #3a3a3a;
 }
-
-/* gallery */
-
- #photos{
-    clear: both;
-    column-count: 2;
-    column-gap: 0;
-    line-height: 0;
-  
-    }
-    #photos > img{
-        width: 100%;
-    }
-    
+.last-h{
+    padding-top: 30px;
+    padding-left: 5%;
+    color: chocolate;
+}
 /* Media Queries */
 
 /* for larger to medium screens size from 1200px wide and down */
