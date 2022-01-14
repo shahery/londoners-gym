@@ -239,6 +239,13 @@ td{
     background-size: cover;
     margin-top: 380px;
     font-size: 130%;
+
+}
+.join{
+    display: inline-block;
+    height: 30px;
+    width: 60px;
+    margin: 0 0 0 120px ;
 }
 
 /* qoute image */
