@@ -175,55 +175,31 @@ position: absolute;
 /* times and contact */
 
 #meet-us{
-    height: 500px;
     width: 100%;
-}
-
-#times{
-    margin: 50px 0 0 100px;
-    
-}
-#times > table{
-    font-size: 110%;
-
-}
-#fees{
-    margin: 20px 0 0 20px;
-    font-size: 110%;
-
-}
-#contact{
+    background:url(../images/times.jpeg) no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+    color: white;
     margin-top: 20px;
-    margin-left: 40%;
 }
-#contact > h3{
-    font-size: 110%;
+.opening{
+    color: white;
 }
-.phone{
-  padding-top: 10px;
-}
-.email{
-    padding-top: 10px;
-
-}
-.ph{
-    font-size: 140%;
+.time{
+    font-size: 150%;
     font-weight: bold;
-
 }
-.mail{
-    font-size: 140%;
-    font-weight: bold;
-
-
+#meet-us div{
+    background-color: rgba(0, 0, 0, .7);
+    float: left;
+    width: 33%;
+    text-align: center;
+    height: 350px;
+    padding-top: 15%;
+    border: 2px solid white;
 }
-.dt{
-    font-size: 130%;
-    font-weight: bold;
-    
-}
-td{
-    font-size: 100%;
+#c{
+    color: white;
 }
 
 /* sign up form */
@@ -237,9 +213,7 @@ td{
     color: black;
     background: url(../images/pexels-photo-4162591.jpeg) no-repeat center center;
     background-size: cover;
-    margin-top: 380px;
     font-size: 130%;
-
 }
 .join{
     display: inline-block;
@@ -258,9 +232,9 @@ td{
 
 }
 #qoute-image{
-    height: 500px;
+    height: 300px;
     width: 100%;
-    background: url(../images/s-l400.jpeg) no-repeat center center;
+    background: url(../images/qoute.jpeg) no-repeat center center;
     background-size: cover;
 
 }
