@@ -269,6 +269,9 @@ footer{
         width: 100%;
         padding-left: 38px;
     }
+    br{
+        display: none;
+    }
 }
 
 /* for medium screen sizes from 950px wide and down */
@@ -281,5 +284,26 @@ footer{
         margin-top: 10px;
         line-height: 25px; 
     }
-    
+    #cover-text{
+        left: 0;
+    }
+    #about{
+        width: 90%;
+        height: 1850px;
+        margin: 0 auto;
+    }
+    #left1, #right1, #left2, #right2{
+        float: left;
+        margin-left: inherit;
+    }
+    #features{
+       width: inherit; 
+    }
+    .fr{
+        padding-left: 20px;
+        padding-top: 0;
+    }
+    .hf{
+        margin-left: inherit;
+    }
 }
