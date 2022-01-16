@@ -9,7 +9,7 @@ body{
     font-family: lato, sans-serif;
     font-weight: 300;
     color: #000000;
-    background-color: #EBEBEB;
+    background-color: #9C9C9C;
 }
 
 /* Headings and logo */
@@ -245,9 +245,13 @@ footer{
     color: #3a3a3a;
 }
 .last-h{
-    padding-top: 30px;
-    padding-left: 5%;
+    padding-top: 40px;
+    padding-left: 40%;
     color: chocolate;
+}
+.fa-copyright{
+    vertical-align:super;
+    font-size: 20px;
 }
 /* Media Queries */
 
@@ -305,6 +309,11 @@ footer{
     br{
         display: none;
     }
+    #sign{
+        width: 13%;
+        float: left;
+        
+    }
 }
 
 /* for medium screen sizes from 950px wide and down */
@@ -353,5 +362,13 @@ footer{
     }
     br{
         display: none;
+    }
+    .last-h{
+        padding-left: 23%;
+    }
+    #sign{
+        width: 35%;
+        float: left;
+        
     }
 }
