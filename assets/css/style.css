@@ -154,6 +154,9 @@ position: absolute;
     margin-top: 20px;
     float: left;
 }
+#features  li{
+    width: 100%;
+}
 .hf{
     padding-left: 30px;
     padding-top: 10px;
@@ -165,19 +168,12 @@ position: absolute;
 .fl{
     float: left;
     padding-left: 5%;
-    padding-top: 30px;
+    padding-top: 10px;
     font-size: 130%;
     font-weight: bold;
+    margin-left: 28%;
 
 }
-.fr{
-    float: right;
-    padding-right: 30%;
-    padding-top: 30px;
-    font-size: 130%;
-    font-weight: bold;
-}
-
 /* times and contact */
 
 #meet-us{
