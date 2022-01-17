@@ -211,10 +211,10 @@ position: absolute;
 /* sign up form */
 
 #sign-up{
-    height: 600px;
-    width: 94.5%;
-    padding-top: 200px;
-    padding-left: 80px;
+    height: 500px;
+    width: 95%%;
+    padding-top: 50px;
+    padding-left: 50px;
     color: black;
     background: url(../images/pexels-photo-4162591.jpeg) no-repeat center center;
     background-size: cover;
@@ -228,15 +228,17 @@ position: absolute;
 
 /* footer */
 
-footer{
-    height: 100px;
+#footer{
+    height: 300px;
     width: 100%;
+    
 }
 .social-networks{
     text-align: center;
 }
 .social-networks > li{
     display: inline;
+
 }
 .social-networks i{
     font-size: 150%;
@@ -245,8 +247,8 @@ footer{
     color: #3a3a3a;
 }
 .last-h{
-    padding-top: 40px;
-    padding-left: 40%;
+    padding-top: 60px;
+    padding-left: 30%;
     color: chocolate;
 }
 .fa-copyright{
@@ -262,22 +264,27 @@ footer{
     width: 65%;
     margin: 0 auto; 
 }
-    #left1, #right1, #left2, #right2{
+    #left1, #right1, #left2, #right2, #features, #right3{
         width: 100%;
         float: left;
         padding: 0;
         margin-top: 30px;
         margin-left: 30px;
     } 
-    #features{
-        width: inherit;
-        margin-left: 30px;
-    }
+   
     #left1{
         height: 250px;
     }
     #left2{
         height: 200px;
+    }
+    #features{
+        height: 300px;
+    }
+    #right3{
+        height: 300px;
+        margin-bottom: 30px;
+
     }
     .l1{
         padding-bottom: 10px;
@@ -286,14 +293,11 @@ footer{
         padding-bottom: 10px;
     }
     .fl{
-        padding-top: inherit;
+        padding-top: 10px;
+        padding-left: 40px;
+        width: 53%;
     }
-    .fr{
-        float: left;
-        width: inherit;
-        padding-left: 25px;
-        padding-top: 0;
-    }
+   
     .hf{
         margin-left: inherit;
         padding-left: inherit;
@@ -313,6 +317,9 @@ footer{
         width: 13%;
         float: left;
         
+    }
+    .last-h{
+        padding-left: 28%;
     }
 }
 
@@ -334,7 +341,7 @@ footer{
         height: 1600px;
         margin: 0 auto;
     }
-    #left1, #right1, #left2, #right2{
+    #left1, #right1, #left2, #right2, #features, #right3{
         float: left;
         margin-left: inherit;
     }
@@ -344,18 +351,18 @@ footer{
     #left2{
         height: 180px;
     }
+    #features{
+        height: 300px;
+        
+    }
     .l1{
         padding-bottom: 10px;
     }
     .l2{
         padding-bottom: 10px;
     }
-    #features{
-       width: inherit; 
-    }
-    .fr{
-        padding-left: 20px;
-        padding-top: 0;
+    .fl{
+        width: 50%;
     }
     .hf{
         margin-left: inherit;
@@ -365,10 +372,89 @@ footer{
     }
     .last-h{
         padding-left: 23%;
+        font-size: 130%;
     }
     #sign{
-        width: 35%;
+        width: 18%;
         float: left;
         
+    }
+}
+
+/* for medium screen sizes from 725px wide and down */
+@media screen and (max-width: 725px) {
+    #menu{
+        clear: left;
+        float: left;
+        margin: 0 auto;
+        line-height: 10px; 
+        font-size: 80%;
+       
+    }
+    #logo{
+        font-size: 150%;
+    }
+    #cover-text{
+        left: 0;
+        width: 40%;
+    }
+    #cover-text h2{
+        font-size: 70%;
+    }
+    #about{
+        width: 95%;
+        height: 2100px;
+        margin: 0 auto;
+    }
+    #left1, #right1, #left2, #right2, #features, #right3{
+        float: left;
+        
+    }
+    #left1{
+        height: 350px;
+        padding-top: 15px;
+    }
+    p{
+        font-size: 90%;
+    }
+    #left2{
+        height: 200px;
+        padding-top: 20px;
+    }
+    #features{
+        height: 350px;
+        padding-top: 10px;
+        
+    }
+    .l1{
+        padding-bottom: 10px;
+        font-size: 95%;
+        font-weight: bold;
+    }
+    .l2{
+        padding-bottom: 10px;
+        font-size: 95%;
+        font-weight: bold;
+    }
+    .fl{
+        width: 100%;
+        padding-left: 1px;
+     
+    }
+    .hf{
+        margin-left: inherit;
+        font-size: 95%;
+        font-weight: bold;
+    }
+    br{
+        display: none;
+    }
+    .last-h{
+        padding-left: 15%;
+        font-size: 110%;
+    }
+    #sign{
+        width: 45%;
+        float: left;
     }
 }
