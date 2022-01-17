@@ -211,14 +211,20 @@ position: absolute;
 /* sign up form */
 
 #sign-up{
-    height: 500px;
-    width: 95%%;
-    padding-top: 50px;
+    height: 550px;
+    width: 96.5%;
+    padding-top: 20px;
     padding-left: 50px;
     color: black;
     background: url(../images/pexels-photo-4162591.jpeg) no-repeat center center;
     background-size: cover;
     font-size: 140%;
+}
+input:hover{
+    background-color: chocolate;
+}
+#terms :hover{
+    background-color: chocolate;
 }
 .join{
     display: inline-block;
@@ -228,17 +234,23 @@ position: absolute;
 
 /* footer */
 
-#footer{
-    height: 300px;
-    width: 100%;
+footer{
+    height: 150px;
     
 }
+
 .social-networks{
     text-align: center;
+    padding-top: 10px;
+
 }
 .social-networks > li{
     display: inline;
+    padding-top: 10px;
 
+}
+.social-networks >li:hover{
+    background-color: chocolate;
 }
 .social-networks i{
     font-size: 150%;
@@ -247,7 +259,7 @@ position: absolute;
     color: #3a3a3a;
 }
 .last-h{
-    padding-top: 60px;
+    padding-top: 30px;
     padding-left: 30%;
     color: #0D0D0D;
 }
