@@ -1,5 +1,5 @@
-# Londeners Gym
-Londeners gym is the gym for the community living in London. Our gym provides the platform for not only the fitness of our community but also for their social purposes because we have a very friendly environment in our gym. We care about our people thats why we provide the free trainers to all our members. Trainers provide the quality training to our valuable members from start to fully shaped body. In short, our motive is to care about the fitness of our community and also care about their social life so that they can release stress of the busy life and being healty.
+# Londoners Gym
+Londoners gym is the gym for the community living in London. Our gym provides the platform for not only the fitness of our community but also for their social purposes because we have a very friendly environment in our gym. We care about our people thats why we provide the free trainers to all our members. Trainers provide the quality training to our valuable members from start to fully shaped body. In short, our motive is to care about the fitness of our community and also care about their social life so that they can release stress of the busy life and being healty.
 
 Users of this website will be able to find all the information about our gym. About the gym, meeting times, contact information, pricing and sign up form. This website is targeted towards the community of london who cares about their fitness.
 # Features
