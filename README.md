@@ -1,14 +1,20 @@
 # Londoners Gym
 Londoners gym is the gym for the community living in London. Our gym provides the platform for not only the fitness of our community but also for their social purposes because we have a very friendly environment in our gym. We care about our people thats why we provide the free trainers to all our members. Trainers provide the quality training to our valuable members from start to fully shaped body. In short, our motive is to care about the fitness of our community and also care about their social life so that they can release stress of the busy life and being healty.
 
-Users of this website will be able to find all the information about our gym. About the gym, meeting times, contact information, pricing and sign up form. This website is targeted towards the community of london who cares about their fitness.
+* User Interface
+  * Gym name
+  * About
+  * Meeting times
+  * Contact information
+  * Pricing
+  * Sign up
+
 # Features
  * Navigation 
 
     * Features at the top of the page, the navigation bar shows the gym name in the left corner at the top (LONDONERS GYM).
     * The navigation links are to the right, Home, About Us, Contact and Sign UP which links to the different sections on the same page.
     * The navigation clearly tells the user the name of the club and website and makes the different sections of the website easy to find.
-
     ![Navigation bar](https://user-images.githubusercontent.com/95220937/149848499-1eae62fd-80f8-4b39-b109-d7b3c11931ca.png)
  * The Header
 
@@ -23,8 +29,13 @@ Users of this website will be able to find all the information about our gym. Ab
     ![Footer](https://user-images.githubusercontent.com/95220937/149848958-371bdefd-d168-4885-813d-9e6f763cb054.png)
  * Sign up Form
     ![Sign up](https://user-images.githubusercontent.com/95220937/149848908-99030aaa-6783-4917-9aa8-0f7fc5f275a1.png)
+# Technology Used 
+  * [HTML](https://en.wikipedia.org)
+  * [CSS](https://en.wikipedia.org)
+  * [GitHub](https://github.com)
+  * [Gitpod](https://www.gitpod.io) 
 # Testing
-# Validator Testing
+ Validator Testing
  * HTML
    * No errors were returned when passing through the official [W3C validator](https://validator.w3.org).
  * CSS
@@ -37,7 +48,9 @@ Users of this website will be able to find all the information about our gym. Ab
 # Deployment
 # Credits
  Content
-  * 
+  * The code to make the social media links was taken from [Code institute](https://codeinstitute.net)
+  * The contents were taken from [glofox](https://www.glofox.com), [Mens Health](https://www.menshealth.com)
+
  Media
   * The Images in the website were taken from [Pexels](https://www.pexels.com)
 
