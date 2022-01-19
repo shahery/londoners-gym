@@ -4,7 +4,6 @@
     padding: 0;
     border: none;
 }
-
 body{
     font-family: lato, sans-serif;
     font-weight: 300;
@@ -114,6 +113,10 @@ position: absolute;
     line-height: 20px;
     float: left;
 }
+#left1 p{
+    height: 250px;
+    width: 70%;
+}
 #right1{
     width: 30%;
     height: 300px;
@@ -123,7 +126,6 @@ position: absolute;
     background: url(../images/pic1.jpeg) no-repeat center center;
     background-size: cover;
     border: 3px solid white;
-   
 }
 #left2{
     padding-top: 70px;
@@ -135,7 +137,10 @@ position: absolute;
     line-height: 20px;
     overflow: hidden;
     margin-top: 30px;
-
+}
+#left2 p{
+    height: 250px;
+    width: 70%;
 }
 #right2{
     width: 30%;
@@ -146,7 +151,6 @@ position: absolute;
    margin-top: 50px;
    margin-right: 150px;
    border: 3px solid white;
-
 }
 #features{
     padding-top: 20px;
@@ -175,7 +179,6 @@ position: absolute;
    margin-top: 50px;
    margin-right: 150px;
    border: 3px solid white;
-
 }
 
 /* times and contact */
@@ -221,10 +224,22 @@ position: absolute;
     font-size: 140%;
 }
 input:hover{
-    background-color: chocolate;
+    background-color: #999999;
 }
-#terms :hover{
-    background-color: chocolate;
+#sign{
+    width: 20%;
+}
+#fname{
+    width: 70%;
+    height: 30px;
+}
+#lname{
+    width: 70%;
+    height: 30px;
+}
+#email{
+    width: 70%;
+    height: 30px;
 }
 .join{
     display: inline-block;
@@ -236,21 +251,14 @@ input:hover{
 
 footer{
     height: 150px;
-    
 }
-
 .social-networks{
     text-align: center;
     padding-top: 10px;
-
 }
 .social-networks > li{
     display: inline;
     padding-top: 10px;
-
-}
-.social-networks >li:hover{
-    background-color: chocolate;
 }
 .social-networks i{
     font-size: 150%;
@@ -283,7 +291,6 @@ footer{
         margin-top: 30px;
         margin-left: 30px;
     } 
-   
     #left1{
         height: 250px;
     }
@@ -296,7 +303,6 @@ footer{
     #right3{
         height: 300px;
         margin-bottom: 30px;
-
     }
     .l1{
         padding-bottom: 10px;
@@ -309,26 +315,38 @@ footer{
         padding-left: 40px;
         width: 53%;
     }
-   
     .hf{
         margin-left: inherit;
         padding-left: inherit;
-
     }
     #meet-us > div{
         width: 100%;
         height: 200px;
         clear: both;
         padding: 100px 0 0 0;
-
     }
     br{
         display: none;
     }
+    #sign-up{
+        width: 95%;
+    }
     #sign{
-        width: 13%;
+        width: 17%;
         float: left;
-        
+        padding-top: 50px;
+    }
+    #fname{
+        width: 100%;
+        height: 20px;
+    }
+    #lname{
+        width: 100%;
+        height: 20px;
+    }
+    #email{
+        width: 100%;
+        height: 20px;
     }
     .last-h{
         padding-left: 28%;
@@ -364,8 +382,7 @@ footer{
         height: 180px;
     }
     #features{
-        height: 300px;
-        
+        height: 300px;   
     }
     .l1{
         padding-bottom: 10px;
@@ -386,10 +403,12 @@ footer{
         padding-left: 23%;
         font-size: 130%;
     }
+    #sign-up{
+        width: 94.2%;
+    }
     #sign{
         width: 18%;
-        float: left;
-        
+        float: left;  
     }
 }
 
@@ -464,6 +483,9 @@ footer{
     .last-h{
         padding-left: 15%;
         font-size: 110%;
+    }
+    #sign-up{
+        width: 87.2%;
     }
     #sign{
         width: 45%;
