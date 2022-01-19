@@ -123,7 +123,7 @@ position: absolute;
     float: right;
     margin-top: 40px;
     margin-right: 150px;
-    background: url("../images/pic1.jpeg") no-repeat center center;
+    background: url("../images/Running-man.jpeg") no-repeat center center;
     background-size: cover;
     border: 3px solid white;
 }
@@ -174,7 +174,7 @@ position: absolute;
     width: 30%;
     height: 300px;
     float: right;
-   background: url("../images/pic6.jpeg") no-repeat center center;
+   background: url("../images/Excercising-man.jpeg") no-repeat center center;
     background-size: cover;
    margin-top: 50px;
    margin-right: 150px;
@@ -219,7 +219,7 @@ position: absolute;
     padding-top: 20px;
     padding-left: 50px;
     color: black;
-    background: url("../images/pexels-photo-4162591.jpeg") no-repeat center center;
+    background: url("../images/sign-up.jpeg") no-repeat center center;
     background-size: cover;
     font-size: 140%;
 }
