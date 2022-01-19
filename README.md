@@ -49,7 +49,20 @@ Londoners gym is the gym for the community living in London. Our gym provides th
   * [GitHub](https://github.com)
   * [Gitpod](https://www.gitpod.io) 
 # Testing
- Validator Testing
+  * I tested that this page works in different browsers: Chrome, firefox, safari.
+  * I confirmed that this project is responsive, looks good and functions on all standard screen sizes using
+    the devtools device toolbar.
+  * I confirmed that the navigation, header, about us, contact and sign up text are all readable and easy to understand.
+  * I have also confirmed that form works: requires entries in every field, will only accept the email in the email field and sign up button works.
+
+  ## Bugs
+   ### solved bugs
+    * when I added the background images to the website, then the sign up background image was more than 100% in width than the other background images
+    * I fixed that sign up background image by putting the value of width to auto
+    * using the property width: auto; in css for sign up background image.
+
+
+ ## Validator Testing
  * HTML
    * No errors were returned when passing through the official [W3C validator](https://validator.w3.org).
  * CSS
@@ -57,17 +70,23 @@ Londoners gym is the gym for the community living in London. Our gym provides th
  * Accessibilty
    * I confirmed that the colors and font chosen are easy to read and accessible by running it through lighthouse in devtools.
 
- Unfixed Bugs
+ ## Unfixed Bugs
   * No unfixed bugs.
 # Deployment
+  * The site was deployed to GitHub pages. The steps to deploy are as follows
+    * In the GitHub repository, navigate to the settings tab 
+    * From the source section drop-down menu, select the Master Branch
+    * Once the master branch has been selected, the page provided the link to the completed website.
+
+   The live link can be found here
 # Credits
- Content
+ ## Content
   * The code to make the social media links was taken from [Code institute](https://codeinstitute.net)
   * Information about the gym was taken from [glofox](https://www.glofox.com), [Mens Health](https://www.menshealth.com)
 
- Icons
+ ## Icons
   * Icons were taken from [Font-awesome](https://fontawesome.com)
 
- Media
+ ## Media
   * The Images in the website were taken from [Pexels](https://www.pexels.com)
 
