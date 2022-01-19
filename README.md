@@ -1,7 +1,7 @@
 # Londoners Gym
-Londoners gym is the gym for the community living in London. Our gym provides the platform for not only the fitness of our community but also for their social purposes because we have a very friendly environment in our gym. We care about our people thats why we provide the free trainers to all our members. Trainers provide the quality training to our valuable members from start to fully shaped body. In short, our motive is to care about the fitness of our community and also care about their social life so that they can release stress of the busy life and being healty.
+Londoners gym is the gym for the community living in London. Our gym provides the platform for not only the fitness of our community but also for their social purposes because we have a very friendly environment in our gym. We care about our people thats why we provide the free trainers to all our members. Trainers provide the quality training to our valuable members from start to fully shaped body. In short, our motive is to care about the fitness of our community and also care about their social life so that they can release stress of the busy life and being healthy.
 
-* User Interface
+* Users content:
   * Gym name
   * About
   * Meeting times
@@ -70,6 +70,7 @@ Londoners gym is the gym for the community living in London. Our gym provides th
    * No errors were returned when passing through the official [jigsaw validator](https://jigsaw.w3.org).
  * Accessibilty
    * I confirmed that the colors and font chosen are easy to read and accessible by running it through lighthouse in devtools.
+   ![performance](https://user-images.githubusercontent.com/95220937/150178226-ae38e3ab-9cd0-4609-8700-880c3b84413a.png)
 
  ## Unfixed Bugs
   * No unfixed bugs.
