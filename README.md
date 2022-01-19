@@ -65,6 +65,9 @@ Londoners gym is the gym for the community living in London. Our gym provides th
   * The code to make the social media links was taken from [Code institute](https://codeinstitute.net)
   * Information about the gym was taken from [glofox](https://www.glofox.com), [Mens Health](https://www.menshealth.com)
 
+ Icons
+  * Icons were taken from [Font-awesome](https://fontawesome.com)
+
  Media
   * The Images in the website were taken from [Pexels](https://www.pexels.com)
 
