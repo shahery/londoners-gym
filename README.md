@@ -25,7 +25,7 @@ Londoners gym is the gym for the community living in London. Our gym provides th
 
     * The about us section gives the details about why should join the gym and the features in our gym.
     * This section also provides the details about what we offer to our valuable members.
-    ![About1](https://user-images.githubusercontent.com/95220937/149848701-8d58bce7-37f3-4826-a24e-6a044a34fabb.png)
+    ![about1](https://user-images.githubusercontent.com/95220937/150168275-0e13c17d-2678-4414-a41c-cf408db7e620.png)
     ![About2](https://user-images.githubusercontent.com/95220937/149848770-1a71aba9-60ea-4688-a058-1808c2a0c74c.png)
  * Contact section
 
@@ -42,7 +42,8 @@ Londoners gym is the gym for the community living in London. Our gym provides th
     * The sign up section has a form to collect details from the users so they can sign up to the gym.
     * The form collects the first name, last name, email address and also ask for authorization to our terms and conditions.
     * The form gives the ability to sign up thats why it is valuable to the users.
-    ![Sign up](https://user-images.githubusercontent.com/95220937/149848908-99030aaa-6783-4917-9aa8-0f7fc5f275a1.png)
+    ![sign-up](https://user-images.githubusercontent.com/95220937/150168524-40789f29-af4b-4764-9080-4aa527321145.png)
+
 # Technology Used 
   * [HTML](https://en.wikipedia.org)
   * [CSS](https://en.wikipedia.org)
@@ -56,10 +57,10 @@ Londoners gym is the gym for the community living in London. Our gym provides th
   * I have also confirmed that form works: requires entries in every field, will only accept the email in the email field and sign up button works.
 
   ## Bugs
-   ### solved bugs
-    * when I added the background images to the website, then the sign up background image was more than 100% in width than the other background images
-    * I fixed that sign up background image by putting the value of width to auto
-    * using the property width: auto; in css for sign up background image.
+  ### solved bugs
+   * when I added the background images to the website, then the sign up background image was more than 100% in width than the other background images
+   * I fixed that sign up background image by putting the value of width to auto
+   * using the property width: auto; in css for sign up background image.
 
 
  ## Validator Testing
