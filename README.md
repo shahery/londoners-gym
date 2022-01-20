@@ -85,7 +85,7 @@ Londoners gym is the gym for the community living in London. Our gym provides th
     * From the source section drop-down menu, select the Master Branch
     * Once the master branch has been selected, the page provided the link to the completed website.
 
-   The live link can be found here
+   The live link can be found here-[Londoners Gym](https://shahery.github.io/londoners-gym/)
 # Credits
  ## Content
   * The code to make the social media links was taken from Code institute [Love running](https://github.com/shahery/Love-running.git) project
